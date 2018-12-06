@@ -30,7 +30,7 @@ dependencies {
 
 - `Simple and efficient` : One line of code to complete all control state switching, recovery.
 - `High compatibility` : Support all system controls, custom controls.
-- 'customizability' : Customize rendering rules and configure as needed.
+- `customizability` : Customize rendering rules and configure as needed.
 
 
 # Effect picture
