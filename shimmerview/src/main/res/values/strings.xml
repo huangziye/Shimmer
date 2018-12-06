@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShimmerView</string>
+    <item name="shimmer_view" type="id"/>
+</resources>
